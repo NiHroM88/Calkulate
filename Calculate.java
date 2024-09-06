@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StringCalc3 {
+public class Calculate {
     public static void main(String[] args) throws Exception {
         Scanner scn = new Scanner(System.in);
         String exp = scn.nextLine();
